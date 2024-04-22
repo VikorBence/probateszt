@@ -1,0 +1,33 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bence</title>
+</head>
+
+<body>
+    <b>
+            <i><b>Miér vásároljon bmw-t?</b></i>
+        
+    </b>
+    <p>-német gyártású<br>
+        -jó motorja van<br>
+        -megbízható<br>
+        -család centrikus
+    </p>
+    <img src="./autó/auto2.jpg" width="200" <br>
+    <b>
+        <u>
+            <p>Márka nevének eredete:</p>
+        </u>
+    </b>
+    <p>A BMW a Bayerische Motoren Werke rövidítése.<br>
+        Ez a név nyelvtanilag hibás (németben az összetett szavak nem tartalmazhatnak szóközt), ezért a név nyelvtanilag
+        helyes formája, a Bayerische Motorenwerke orábban több kiadványban és hirdetésben is szerepelt.
+    </p>
+
+
+    </body>
+
+</html>
